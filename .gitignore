@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### p12 files ###
+*.p12
+
+### application.properties ###
+application.properties
+
